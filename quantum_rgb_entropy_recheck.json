@@ -1,0 +1,71 @@
+{
+  "frequency_bands_hz": {
+    "R": [
+      40,
+      250
+    ],
+    "G": [
+      250,
+      2000
+    ],
+    "B": [
+      2000,
+      6000
+    ]
+  },
+  "relative_audio_band_energy": {
+    "R": 0.875328,
+    "G": 0.117359,
+    "B": 0.007313
+  },
+  "seed_from_audio": 14288464744916120875,
+  "ry_angles_radians": [
+    5.331106,
+    2.350297,
+    1.05816
+  ],
+  "measurement_probabilities": {
+    "000": 0.13761,
+    "001": 0.004581,
+    "010": 0.005387,
+    "011": 0.661529,
+    "100": 0.012741,
+    "101": 0.014463,
+    "110": 0.089968,
+    "111": 0.07372
+  },
+  "shannon_entropy_bits": 1.622796,
+  "normalized_entropy": 0.540932,
+  "cohesion_constraints": {
+    "story_arc": "trapped -> resistance -> release -> renewal",
+    "motif_limit": 2,
+    "keep_hook_identical_each_repeat": true
+  },
+  "lyric_idea_selections": {
+    "anchor_motif": "neon skyline",
+    "secondary_motif": "streetlights",
+    "anchor_rhymes": [
+      "glow",
+      "slow",
+      "go"
+    ],
+    "secondary_rhymes": [
+      "night",
+      "light",
+      "bright"
+    ],
+    "emotional_action": "return",
+    "top_outcomes": [
+      "011",
+      "000",
+      "110",
+      "111"
+    ],
+    "observed_top_counts": [
+      2697,
+      567,
+      379,
+      308
+    ]
+  }
+}

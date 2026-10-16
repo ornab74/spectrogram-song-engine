@@ -1,0 +1,68 @@
+{
+  "files": {
+    "README_REPRODUCE.md": {
+      "sha256": "7b7e97309c9f5b06a2d322d25d669ae55fc137516cb4e715543201889c5df7cd",
+      "bytes": 3085
+    },
+    "requirements_verified.txt": {
+      "sha256": "c1d957e8b3d7ecb01e568c737a7102edcb22904ff9d1b6827e1e8c2c6d6956e6",
+      "bytes": 80
+    },
+    "Spectrogram_Quantum_RGB_Entropy_Research_Paper.pdf": {
+      "sha256": "e6869c2a598448de617f104eca3b869aa83c74d9265798c0bfc6eaa44a755ea3",
+      "bytes": 838030
+    },
+    "Spectrogram_Quantum_RGB_Entropy_Research_Paper.docx": {
+      "sha256": "e85a6d52c4cd31817ba262a1da861b72c6dceaf8f9b7a83f66bfa67e9a0b22d3",
+      "bytes": 2537953
+    },
+    "Spectrogram_Quantum_RGB_Entropy_Research_Paper.md": {
+      "sha256": "5528cdbf868aa55c13e482d7f8d3ef601947bfacd9d1344a44d1589ab58e03f2",
+      "bytes": 63988
+    },
+    "analyze_audio.py": {
+      "sha256": "095ed25615f2fa03d2427a6046193c68134ad48a12e0ca98e5f7afe49baaec6f",
+      "bytes": 4120
+    },
+    "quantum_rgb_entropy.py": {
+      "sha256": "5c80b25da0c32cdad475012ed3949f076d85dd7cec44e545ed6508db01f337fd",
+      "bytes": 5581
+    },
+    "create_figures.py": {
+      "sha256": "636acab3458a721f77c6c12e21eb76a051bb57c452307b39187621a4ce457ef5",
+      "bytes": 2870
+    },
+    "track_analysis.json": {
+      "sha256": "e5d548d7be1748852f617e15be851c074cff28c100b480fc314f13e343d3f75b",
+      "bytes": 4678
+    },
+    "quantum_rgb_entropy_results.json": {
+      "sha256": "a61fc68687db010c98406274016397b63445d046ffa83502e75c11a02c8d5b19",
+      "bytes": 1245
+    },
+    "quantum_rgb_entropy_recheck.json": {
+      "sha256": "a61fc68687db010c98406274016397b63445d046ffa83502e75c11a02c8d5b19",
+      "bytes": 1245
+    },
+    "Bring_On_The_Night_Suno_Lyrics_and_Cadence.md": {
+      "sha256": "226816eee2f4828235ac23e2881029139bcebe7447891609790e47e7250df6d6",
+      "bytes": 6995
+    },
+    "track_spectrogram.png": {
+      "sha256": "fd9638bc1be26ace5d6a046049ab7f17cd2c604fcc7f55d19e53fec8b834cc2d",
+      "bytes": 2398829
+    },
+    "measurement_probabilities.png": {
+      "sha256": "9a2386d46d10492d935e1f3d97509f7440ab61640c746a824056a70161cecb39",
+      "bytes": 68728
+    },
+    "circuit_schematic.png": {
+      "sha256": "43439dff55c91815ea0c51d503be045db78adff6811befa585dce9994b3ef6cb",
+      "bytes": 57148
+    },
+    "Punchier Pre-Chorus and Chorus (Extended) (1) (1) (1).wav": {
+      "sha256": "08641bf7a137136c956179c350aa78bf8c5f369fbe3e06605fb75dddacfb7a88",
+      "bytes": 31271440
+    }
+  }
+}

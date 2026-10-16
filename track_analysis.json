@@ -1,0 +1,308 @@
+{
+  "duration": 162.8,
+  "channels": 2,
+  "sample_rate": 48000,
+  "global_rms": 0.1489802747964859,
+  "peak": 0.6088131070137024,
+  "bpm_tempo_est": [
+    133.92857142857142
+  ],
+  "bpm_beat_tracker": [
+    133.92857142857142
+  ],
+  "beat_times_first": [
+    0.13,
+    0.58,
+    1.02,
+    1.47,
+    1.92,
+    2.37,
+    2.82,
+    3.26,
+    3.71,
+    4.16,
+    4.61,
+    5.06,
+    5.5,
+    5.95,
+    6.4,
+    6.85,
+    7.3,
+    7.74,
+    8.19,
+    8.64,
+    9.09,
+    9.54,
+    9.98,
+    10.43,
+    10.88
+  ],
+  "beat_count": 365,
+  "chroma": {
+    "C": 0.242,
+    "C#": 0.289,
+    "D": 0.263,
+    "D#": 0.38,
+    "E": 0.275,
+    "F": 0.411,
+    "F#": 0.508,
+    "G": 0.208,
+    "G#": 0.144,
+    "A": 0.205,
+    "A#": 0.491,
+    "B": 0.315
+  },
+  "estimated_keys": [
+    [
+      "D#",
+      "minor",
+      0.716
+    ],
+    [
+      "F#",
+      "major",
+      0.635
+    ],
+    [
+      "A#",
+      "minor",
+      0.596
+    ],
+    [
+      "A#",
+      "major",
+      0.463
+    ],
+    [
+      "B",
+      "major",
+      0.321
+    ],
+    [
+      "D#",
+      "major",
+      0.162
+    ],
+    [
+      "C#",
+      "major",
+      0.146
+    ],
+    [
+      "F#",
+      "minor",
+      0.139
+    ]
+  ],
+  "sections_8s": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "rms": 0.0656,
+      "spectral_centroid": 508.8,
+      "flux": 2.39e-05
+    },
+    {
+      "start": 8.0,
+      "end": 16.0,
+      "rms": 0.115,
+      "spectral_centroid": 720.3,
+      "flux": 4.76e-05
+    },
+    {
+      "start": 16.0,
+      "end": 24.0,
+      "rms": 0.1638,
+      "spectral_centroid": 700.7,
+      "flux": 8.08e-05
+    },
+    {
+      "start": 24.0,
+      "end": 32.0,
+      "rms": 0.1878,
+      "spectral_centroid": 809.7,
+      "flux": 0.0001072
+    },
+    {
+      "start": 32.0,
+      "end": 40.0,
+      "rms": 0.1756,
+      "spectral_centroid": 789.4,
+      "flux": 9.76e-05
+    },
+    {
+      "start": 40.0,
+      "end": 48.0,
+      "rms": 0.1548,
+      "spectral_centroid": 951.6,
+      "flux": 0.0001088
+    },
+    {
+      "start": 48.0,
+      "end": 56.0,
+      "rms": 0.1864,
+      "spectral_centroid": 849.7,
+      "flux": 0.0001054
+    },
+    {
+      "start": 56.0,
+      "end": 64.0,
+      "rms": 0.1737,
+      "spectral_centroid": 858.1,
+      "flux": 0.0001098
+    },
+    {
+      "start": 64.0,
+      "end": 72.0,
+      "rms": 0.1895,
+      "spectral_centroid": 652.4,
+      "flux": 0.0001107
+    },
+    {
+      "start": 72.0,
+      "end": 80.0,
+      "rms": 0.1787,
+      "spectral_centroid": 841.5,
+      "flux": 9.65e-05
+    },
+    {
+      "start": 80.0,
+      "end": 88.0,
+      "rms": 0.1298,
+      "spectral_centroid": 1022.3,
+      "flux": 8.52e-05
+    },
+    {
+      "start": 88.0,
+      "end": 96.0,
+      "rms": 0.0916,
+      "spectral_centroid": 1106.0,
+      "flux": 6.14e-05
+    },
+    {
+      "start": 96.0,
+      "end": 104.0,
+      "rms": 0.123,
+      "spectral_centroid": 751.4,
+      "flux": 7.85e-05
+    },
+    {
+      "start": 104.0,
+      "end": 112.0,
+      "rms": 0.1643,
+      "spectral_centroid": 661.4,
+      "flux": 8.24e-05
+    },
+    {
+      "start": 112.0,
+      "end": 120.0,
+      "rms": 0.1828,
+      "spectral_centroid": 742.5,
+      "flux": 9.65e-05
+    },
+    {
+      "start": 120.0,
+      "end": 128.0,
+      "rms": 0.1642,
+      "spectral_centroid": 815.1,
+      "flux": 9.58e-05
+    },
+    {
+      "start": 128.0,
+      "end": 136.0,
+      "rms": 0.0567,
+      "spectral_centroid": 698.6,
+      "flux": 2.06e-05
+    },
+    {
+      "start": 136.0,
+      "end": 144.0,
+      "rms": 0.0878,
+      "spectral_centroid": 590.2,
+      "flux": 2.73e-05
+    },
+    {
+      "start": 144.0,
+      "end": 152.0,
+      "rms": 0.1694,
+      "spectral_centroid": 577.4,
+      "flux": 6.67e-05
+    },
+    {
+      "start": 152.0,
+      "end": 160.0,
+      "rms": 0.1176,
+      "spectral_centroid": 532.7,
+      "flux": 2.66e-05
+    },
+    {
+      "start": 160.0,
+      "end": 162.8,
+      "rms": 0.0968,
+      "spectral_centroid": 916.3,
+      "flux": 2.71e-05
+    }
+  ],
+  "energy_changes": [
+    [
+      0.1075,
+      128.0,
+      "decrease"
+    ],
+    [
+      0.0816,
+      144.0,
+      "increase"
+    ],
+    [
+      0.0518,
+      152.0,
+      "decrease"
+    ],
+    [
+      0.0494,
+      8.0,
+      "increase"
+    ],
+    [
+      0.0489,
+      80.0,
+      "decrease"
+    ],
+    [
+      0.0488,
+      16.0,
+      "increase"
+    ],
+    [
+      0.0413,
+      104.0,
+      "increase"
+    ],
+    [
+      0.0382,
+      88.0,
+      "decrease"
+    ],
+    [
+      0.0316,
+      48.0,
+      "increase"
+    ],
+    [
+      0.0314,
+      96.0,
+      "increase"
+    ],
+    [
+      0.0311,
+      136.0,
+      "increase"
+    ],
+    [
+      0.024,
+      24.0,
+      "increase"
+    ]
+  ]
+}
